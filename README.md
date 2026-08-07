@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">👋 Adam Elmir</h1>
+<h3 align="center">🌐 Computer Networks Student · Full-Stack & Mobile Developer</h3>
 
-<!--
-**adamelmir345/adamelmir345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/adamelmir345"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:elmiradam2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>Computer Networks Engineering Student at <b>EMSI</b> & Digital Development Graduate — passionate about Network Architecture, Security, and Full-Stack Development (Python/Django, Flutter, Java).</i>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+```javascript
+adam = {
+    "education" : "Computer Networks · EMSI | Digital Development · OFPPT",
+    "focus"     : ["Network Architecture", "Full-Stack Development", "Mobile Apps", "Database Systems"],
+    "core_stack": ["Python", "Django", "Flutter", "Java", "PostgreSQL", "T-SQL"],
+    "location"  : "Morocco 🇲🇦",
+    "open_to"   : "Internships & Collaborations in Networking & Software Engineering",
+    "fun_fact"  : "Passionate about software architecture, weight training 🏋️‍♂️ & running 🏃",
+}
